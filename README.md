@@ -1,5 +1,5 @@
 
-# 👨‍💻 **BBBL Team - Network Engineering Team**
+# 👨‍💻 BBBL Team - Network Engineering Team
 
 <div align="center">
   
@@ -14,75 +14,81 @@
 
 <br/>
 
-## 👥 **تیم ما**
+## 👥 Our Team
 
-ما یک **تیم شبکه** هستیم با تخصص اصلی در **Cloudflare Workers** و ساخت راهکارهای دسترسی به اینترنت آزاد.
+We are a **Network Engineering Team** specialized in **Cloudflare Workers** and building solutions for free internet access.
 
-| نام | نقش | تخصص |
-|-----|------|------|
-| **پیمان** | مدیر تیم / معمار شبکه | طراحی معماری و زیرساخت |
-| **رضا** | توسعه‌دهنده ارشد | Cloudflare Workers, JavaScript |
-| **مهدی** | متخصص امنیت | رمزنگاری، پروتکل‌های امن |
-| **سعید** | بهینه‌ساز عملکرد | سرعت، کش، کاهش تأخیر |
+| Name | Role | Expertise |
+|------|------|-----------|
+| Peyman | Team Lead / Network Architect | Infrastructure & Architecture Design |
+| Reza | Senior Developer | Cloudflare Workers, JavaScript |
+| Mehdi | Security Specialist | Cryptography, Security Protocols |
+| Saeed | Performance Engineer | Speed, Caching, Latency Optimization |
 
-> ۴ نفر. از ۴ شهر مختلف. مجموعاً بیش از ۱۵ سال تجربه در زمینه شبکه، امنیت و Cloudflare.
-
-<br/>
-
-## 🔧 **ما چکار می‌کنیم؟**
-
-ما به شما یک **پروژه آماده Cloudflare Worker** تحویل می‌دهیم. شما آن را روی اکانت رایگان Cloudflare خود آپلود می‌کنید و بلافاصله به یک **Gateway شخصی** برای دسترسی آزاد به اینترنت دسترسی پیدا می‌کنید.
-
-```
-کاربر → دریافت Worker → آپلود روی Cloudflare → دریافت لینک → اینترنت آزاد ✅
-```
-
-**نکات کلیدی:**
-- هیچ سرور واسطه‌ای نداریم
-- هیچ لاگی ذخیره نمی‌شود
-- فقط شما و لبه‌های شبکه Cloudflare (300+ سرور جهانی)
+> 4 people. From 4 different cities. Over 15 years combined experience in networking, security, and Cloudflare.
 
 <br/>
 
-## 🛠️ **تکنولوژی‌ها**
+## 🔧 What We Do
 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/>
-
-## 📈 **آمار**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bbbl-official&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=333333&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbl-official&layout=compact&theme=dark&bg_color=0A0A0A&title_color=ffffff&text_color=888888&border_color=333333&hide_border=false&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbbl-official&theme=dark&background=0A0A0A&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&hide_border=false" />
-</div>
-
-<br/>
-
-## 📞 **ارتباط با ما**
-
-| راه ارتباطی | آدرس |
-|-------------|------|
-| **GitHub** | github.com/bbbl-official |
-| **Discord** | discord.gg/bbbl |
-| **Email** | contact@bbbl.ir |
+We provide you with a **ready-to-deploy Cloudflare Worker project**. You upload it to your free Cloudflare account and instantly get a **personal Gateway** for free internet access.
 
 <br/>
 
 <div align="center">
   
-  <sub>
-    BBBL - دسترسی آزاد به اینترنت برای همه
-  </sub>
+  ```
+  User → Get Worker → Deploy to Cloudflare → Get Link → Free Internet ✅
+  ```
+  
+</div>
+
+<br/>
+
+**Key Points:**
+
+- No intermediate servers
+- No logs stored
+- Just you and Cloudflare's edge network (300+ global servers)
+
+<br/>
+
+## 🛠️ Technologies
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+</div>
+
+<br/>
+
+## 📈 Stats
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bbbl-official&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=333333&hide_border=false" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbl-official&layout=compact&theme=dark&bg_color=0A0A0A&title_color=ffffff&text_color=888888&border_color=333333&hide_border=false&langs_count=6" />
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbbl-official&theme=dark&background=0A0A0A&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&hide_border=false" />
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <sub>BBBL - Free Internet Access For Everyone</sub>
   
   <br/>
   
