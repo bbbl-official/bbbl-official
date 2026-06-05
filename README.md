@@ -63,8 +63,8 @@ A team of independent developers committed to digital freedom and equal access t
 | | |
 |---|---|
 | 🌍 **Official Website** | [bbbl.ir](https://bbbl.ir) |
-| 📂 **GitHub Organization** | [github.com/bbbl-ir](https://github.com/bbbl-ir) |
-| 📧 **Contact** | coming soon |
+| 📂 **GitHub Organization** | [github.com/bbbl-ir](https://github.com/bbbl-official) |
+
 
 ---
 
