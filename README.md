@@ -1,6 +1,4 @@
-# 🔥 README.md نهایی و کامل برای پروفایل GitHub شما
 
-```markdown
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:ffffff&height=200&section=header&text=BBBL%20CREW&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
@@ -254,4 +252,4 @@ wrangler deploy
   <img src="https://komarev.com/ghpvc/?username=bbbl-official&label=PROJECT+VISITS&color=ffffff&style=flat-square" />
   
 </div>
-```
+
