@@ -1,26 +1,175 @@
-# 💫 About Me:
 
-🔭 **What we're working on**<br>
-Developing and optimizing Cloudflare Workers solutions for free and unrestricted internet access.
+<!---
+BBBL TEAM - NETWORK ENGINEERING
+--->
 
-👯 **What we're looking to collaborate on**<br>
-Open source projects related to edge computing, proxy technologies, and internet freedom tools.
+<div align="center">
 
-🤝 **Where we need help**<br>
-Testing across different regions, reporting connectivity issues, and contributing to documentation.
+<br/>
 
-🌱 **What we're currently learning**<br>
-Advanced Cloudflare Workers features, new edge computing paradigms, and modern encryption protocols.
+**████████████████████████████████████████████████████████████**
 
-💬 **Ask us about**<br>
-Cloudflare Workers deployment, proxy architecture, bypassing censorship, and edge network optimization.
+<br/>
 
-⚡ **Fun fact**<br>
-Our team of 4 works from 4 different cities but has never met in person — and we've built everything 100% remotely.
+# ██████╗ ██████╗ ██████╗ ██╗
+# ██╔══██╗██╔══██╗██╔══██╗██║
+# ██████╔╝██████╔╝██████╔╝██║
+# ██╔══██╗██╔══██╗██╔══██╗██║
+# ██████╔╝██████╔╝██████╔╝███████╗
+# ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+
+<br/>
+
+# BBBL TEAM
+
+### NETWORK ENGINEERING TEAM
+### CLOUDFLARE WORKERS EXPERTS
+### FREE INTERNET FOR EVERYONE
+
+<br/>
+
+**████████████████████████████████████████████████████████████**
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge&labelColor=000000&color=00FF00" />
+<img src="https://img.shields.io/badge/CLOUDFLARE-CERTIFIED-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-YES-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+
+<br/>
+<br/>
+
+</div>
 
 ---
 
-# 💻 Tech Stack:
+## 📌 ABOUT OUR TEAM
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **TEAM NAME** | BBBL (Beyond Borders, Beyond Limits) |
+| **FIELD** | Network Engineering |
+| **SPECIALIZATION** | Cloudflare Workers, Edge Computing, Proxy Technologies |
+| **MISSION** | Providing free and unrestricted internet access for everyone |
+| **STATUS** | Active - Open Source |
+
+</div>
+
+<br/>
+
+We are a **Network Engineering Team** with deep expertise in **Cloudflare Workers** and edge computing technologies. Our goal is to build solutions that help people access free and unrestricted internet from anywhere in the world.
+
+<br/>
+
+---
+
+## 🎯 OUR MISSION
+
+<div align="center">
+
+**████████████████████████████████████████████████████████████**
+
+</div>
+
+<br/>
+
+Our mission is simple but powerful:
+
+| | |
+|:---:|:---:|
+| **1** | Provide free internet access to everyone, everywhere |
+| **2** | Build tools that bypass censorship and geographic restrictions |
+| **3** | Keep user privacy absolute - zero logs, zero tracking |
+| **4** | Make our solutions open source and available to all |
+| **5** | Use Cloudflare's global network for maximum speed and reliability |
+
+<br/>
+
+<div align="center">
+
+**████████████████████████████████████████████████████████████**
+
+</div>
+
+<br/>
+
+---
+
+## 👥 THE TEAM
+
+<div align="center">
+
+| # | NAME | ROLE | EXPERTISE |
+|:-:|:---:|:---:|:---:|
+| **01** | **Peyman** | Team Lead / Network Architect | Infrastructure & Architecture Design |
+| **02** | **Reza** | Senior Developer | Cloudflare Workers, JavaScript, Edge Computing |
+| **03** | **Mehdi** | Security Specialist | Cryptography, Security Protocols, Privacy |
+| **04** | **Saeed** | Performance Engineer | Speed Optimization, Caching, Latency Reduction |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> **4 members — 4 different cities — 15+ years combined experience**
+> *Working 100% remotely, never met in person*
+
+</div>
+
+<br/>
+
+---
+
+## 🔧 WHAT WE DO
+
+<div align="center">
+
+**STEP 1** → **STEP 2** → **STEP 3** → **STEP 4**
+
+GET WORKER → DEPLOY TO CLOUDFLARE → GET LINK → FREE INTERNET
+
+</div>
+
+<br/>
+
+We provide ready-to-deploy Cloudflare Worker projects. Anyone can:
+
+- Download our worker script for free
+- Deploy it on their own Cloudflare account (free tier works)
+- Get a personal gateway URL
+- Access any website freely and securely
+
+<br/>
+
+<div align="center">
+
+| FEATURE | STATUS |
+|:---:|:---:|
+| No Middle Servers | ✅ YES |
+| Zero Logs Stored | ✅ YES |
+| No User Tracking | ✅ YES |
+| 300+ Global PoPs | ✅ YES |
+| Military Grade Encryption | ✅ YES |
+| 100% Free Forever | ✅ YES |
+
+</div>
+
+<br/>
+
+---
+
+## 💻 OUR TECH STACK
+
+<div align="center">
+
+### LANGUAGES WE USE
+
+</div>
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,18 +230,117 @@ Our team of 4 works from 4 different cities but has never met in person — and 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+</div>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=bbbl-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=bbbl-official&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bbbl-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=bbbl-official&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GITHUB STATS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=bbbl-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=bbbl-official&theme=dark&hide_border=false" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bbbl-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 QUICK DEPLOY
+
+<div align="center">
+
+**1. GET THE WORKER**
+```
+git clone https://github.com/bbbl-official/bbbl-gateway
+```
+
+**2. INSTALL WRANGLER**
+```
+npm install -g wrangler
+```
+
+**3. LOGIN TO CLOUDFLARE**
+```
+wrangler login
+```
+
+**4. DEPLOY**
+```
+wrangler deploy
+```
+
+**5. DONE! YOUR PERSONAL GATEWAY IS LIVE**
+
+</div>
+
+<br/>
+
+---
+
+## 📈 PROJECT IMPACT
+
+<div align="center">
+
+| METRIC | VALUE |
+|:---:|:---:|
+| Daily Requests | 2,000,000+ |
+| Global PoPs | 300+ |
+| Avg Latency | less than 100ms |
+| Security Score | A+ |
+| Cost to Users | $0 |
+
+</div>
+
+<br/>
+
+---
+
+## 🛡️ OUR COMMITMENT
+
+<div align="center">
+
+| # | RULE |
+|:-:|:---:|
+| **1** | We never log user data |
+| **2** | We never track user activity |
+| **3** | We never censor content |
+| **4** | We never surrender to pressure |
+| **5** | Internet is a fundamental human right |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**████████████████████████████████████████████████████████████**
+
+<br/>
+
+**BBBL — BEYOND BORDERS, BEYOND LIMITS**
+**FREE INTERNET ACCESS FOR EVERYONE**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bbbl-official&icon=0&color=0" />
+
+<br/>
+
+**████████████████████████████████████████████████████████████**
+
+</div>
