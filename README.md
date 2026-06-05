@@ -1,21 +1,54 @@
-# 👋 Hi, I'm [Your Name]
+# 🌐 BBBL (Beyond Borders · Beyond Limits)
 
-## About Me
-- 🔭 I’m currently working on [your project]
-- 🌱 I’m learning [technologies you're learning]
-- 👯 I’m looking to collaborate on [type of projects]
-- 💬 Ask me about [your expertise areas]
-- 📫 How to reach me: [email or social]
-- ⚡ Fun fact: [something interesting]
+> *Connecting everyone to a free and open internet — no borders, no limits*
 
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript, HTML/CSS
-- **Tools:** Git, VS Code, Figma
-- **Frameworks:** React, Node.js (if applicable)
+---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+## 🚀 Our Mission
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
+We are a team of developers building tools to provide secure, unrestricted internet access using **Cloudflare Workers** and decentralized technologies.
+
+**BBBL stands for:**
+- **Beyond Borders** – Breaking geographical barriers
+- **Beyond Limits** – Overcoming artificial restrictions
+
+---
+
+## 🛠️ Tech Stack
+
+- Cloudflare Workers
+- JavaScript / TypeScript
+- Edge Computing
+- Encryption & Anonymization protocols
+
+---
+
+## 👥 Who We Are
+
+A team of independent developers committed to digital freedom and equal access to information.
+
+---
+
+## 📡 How It Works
+
+By deploying lightweight code on **Cloudflare Workers**, we create fast, secure bridges to bypass censorship — no extra software needed, just a browser.
+
+---
+
+## 🤝 Get Involved
+
+If you're a developer or have ideas to improve open internet access, we'd love to collaborate or help you get started.
+
+---
+
+## ⭐ Support Us
+
+Starring our repos helps more people discover and use these tools.
+
+---
+
+## 🔗 Connect With Us
+
+[Channel/Link] – Coming soon  
+
+**BBBL Team** – Beyond Borders, Beyond Limits
