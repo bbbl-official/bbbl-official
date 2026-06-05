@@ -98,6 +98,4 @@ Open source and freely available for everyone.
 *Free internet for everyone, not a privilege but a right*
 
 </div>
-```
-
 
