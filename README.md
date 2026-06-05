@@ -100,17 +100,4 @@ Open source and freely available for everyone.
 </div>
 ```
 
----
-
-## 📁 Where to put this file
-
-Create a repository named exactly:
-```
-bbbl-ir
-```
-
-Then put the file at:
-```
-.github/profile/README.md
-```
 
