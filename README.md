@@ -8,7 +8,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-oryvex.com-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.com)
+[![Website](https://img.shields.io/badge/Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
 [![GitHub](https://img.shields.io/badge/GitHub-ORYVEX-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORYVEX)
 [![Telegram](https://img.shields.io/badge/Telegram-@ORYVEX-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ORYVEX)
 [![License](https://img.shields.io/badge/License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
@@ -35,8 +35,9 @@ We believe that:
 | Goal | Status |
 |------|--------|
 | ✅ Free VPN client (Windows) | **Released** |
-| 🔄 macOS & Linux support | In Development |
-| 📱 Mobile apps (iOS/Android) | Planned |
+| ✅ Free VPN client (Linux) | **Released** |
+| ✅ Free VPN client (Android) | **Released** |
+| 🔄 macOS support | In Development |
 | 🚀 High-speed server network | Active |
 | 🔒 Zero-logging policy | Enforced |
 
@@ -53,10 +54,29 @@ We believe that:
 | 🔐 **Protocols** | VLESS, VMess, HTTPUpgrade, WebSocket, gRPC, XHTTP |
 | 🚀 **Encryption** | XTLS Vision + REALITY |
 | 💰 **Price** | Forever Free |
-| 🪟 **Platform** | Windows (more coming) |
+| 🪟 **Windows** | ✅ Native app with GUI |
+| 🐧 **Linux** | ✅ CLI + GUI versions |
+| 📱 **Android** | ✅ Mobile app available |
+| 🍏 **macOS** | 🔄 Coming soon |
 | 📊 **Features** | Real-time traffic, auto-reconnect, kill switch |
 
 [![Repository](https://img.shields.io/badge/View_Repository-ORYVEX_VPN-14b8a6?style=for-the-badge&logo=github)](https://github.com/ORYVEX/VPN)
+
+---
+
+### 📱 Download ORYVEX VPN
+
+<div align="center">
+
+| Platform | Status | Download |
+|----------|--------|----------|
+| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | ✅ Ready | [Download](https://oryvex.top/download/windows) |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ✅ Ready | [Download](https://oryvex.top/download/linux) |
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ✅ Ready | [Download](https://oryvex.top/download/android) |
+| ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) | 🚧 Soon | - |
+| ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white) | 🚧 Soon | - |
+
+</div>
 
 ---
 
@@ -76,8 +96,9 @@ We believe that:
 
 ### 🔷 More Coming Soon...
 
+- 🍏 **ORYVEX for macOS** (Native app)
+- 📱 **ORYVEX for iOS** (App Store)
 - 🌐 **Web-based VPN client** (Browser extension)
-- 📱 **ORYVEX Mobile** (iOS/Android app)
 - 🖥️ **ORYVEX CLI** (Headless client for servers)
 - 🔧 **Configuration Generator** (Easy config creation)
 
@@ -90,6 +111,7 @@ We believe that:
 | Category | Technologies |
 |----------|--------------|
 | **Frontend** | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 | **Core Engine** | ![Xray-core](https://img.shields.io/badge/Xray--core-1.8.0-14b8a6?style=flat-square&logo=go&logoColor=white) |
 | **Infrastructure** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
@@ -118,45 +140,16 @@ We believe that:
 | 🛡️ **Security Researcher** | Protocol analysis, encryption |
 | 🎨 **UI/UX Designer** | Interface design, user experience |
 | 🌍 **Infrastructure Engineer** | Server network, deployment |
-| 📱 **Mobile Developer** | iOS/Android apps (in progress) |
+| 📱 **Mobile Developer** | Android & iOS apps |
 
 ---
 
-## 🤝 Join Us
+## 📥 Quick Installation
 
-We're always looking for passionate people to join our mission!
+### Windows
+```bash
+# Download installer from website
+oryvex.top/download/windows
 
-### How to Contribute
-
-| Contribution | Description |
-|--------------|-------------|
-| 🐛 **Bug Reports** | Report issues in our repositories |
-| 💡 **Feature Ideas** | Suggest improvements |
-| 🔧 **Code** | Submit pull requests |
-| 🌐 **Translations** | Help localize our apps |
-| 🧪 **Testing** | Beta test new features |
-
-### Contact Us
-
-- 📧 **Email**: `team@oryvex.com`
-- 💬 **Telegram**: [@ORYVEX](https://t.me/ORYVEX)
-- 🐙 **GitHub**: [@ORYVEX](https://github.com/ORYVEX)
-
----
-
-## 🌟 Support Us
-
-If you believe in what we do, here's how you can support:
-
-| Way | Description |
-|-----|-------------|
-| ⭐ **Star our repos** | Helps more people discover our work |
-| 🔄 **Share with others** | Spread the word about free internet tools |
-| 💝 **Donate** | Coming soon (crypto, PayPal) |
-| 🔧 **Contribute** | Help us build better tools |
-
----
-
-## 📜 License
-
-All ORYVEX projects are **open source** and released under the **MIT License** unless stated otherwise.
+# Run install.bat as Administrator
+# Then start.bat as Administrator
